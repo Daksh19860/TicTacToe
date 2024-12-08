@@ -16,12 +16,12 @@ A simple console-based Tic Tac Toe game built in Java.
 
 ## TIC TAC TOE GAME!
 ## Player 1, choose your letter (O or X): X
-## +---+---+---+
-##         |   |   |   |
-##         +---+---+---+
-##         |   |   |   |
-##         +---+---+---+
-##         |   |   |   |
+ +---+---+---+
+         |   |   |   |
+         +---+---+---+
+         |   |   |   |
+         +---+---+---+
+         |   |   |   |
 ##         +---+---+---+
 ## Player 1 (X), enter your move (row col): 0 0
 ##         +---+---+---+
